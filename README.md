@@ -33,19 +33,19 @@
 <h2 align="center" style="color: #EE2121;">🩸 BATTLE DATA (İstatistikler)</h2>
 
 <div align="center">
-  <!-- Stats Cards using 'radical' theme for reliable red/black contrast -->
+  <!-- Stats Cards - Using standard 'radical' theme which is Black & Red (Berserk style) and highly reliable -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Litachii&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=EE2121&title_color=EE2121&text_color=FFFFFF" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Litachii&show_icons=true&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litachii&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&icon_color=EE2121&title_color=EE2121&text_color=FFFFFF" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litachii&layout=compact&theme=radical&hide_border=true" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Litachii&theme=radical&hide_border=true&background=0D1117&ring=EE2121&fire=EE2121&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=EE2121" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Litachii&theme=radical&hide_border=true" alt="streak stats" />
 </div>
 
 <br/><br/>
