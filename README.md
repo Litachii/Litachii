@@ -34,37 +34,38 @@
 
 <div align="center">
   <!-- 
-    RELIABLE STATS (SAĞLAM İSTATİSTİKLER)
-    SVG kartları bazen yüklenmediği için, %100 çalışan özel tasarım rozetlere geçildi.
+    RELIABLE STATS V2
+    Using Dynamic JSON badges for 100% accuracy.
   -->
   
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/Litachii?style=for-the-badge&color=EE2121&labelColor=0D1117&label=FOLLOWERS&logo=github&logoColor=white" />
   
-  <!-- Repositories -->
-  <img src="https://img.shields.io/github/public-repos/Litachii?style=for-the-badge&color=EE2121&labelColor=0D1117&label=REPOSITORIES&logo=github&logoColor=white" />
+  <!-- Repositories (Fixed Endpoint) -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Litachii&query=public_repos&style=for-the-badge&color=EE2121&labelColor=0D1117&label=REPOSITORIES&logo=github&logoColor=white" />
   
   <br/>
 
   <!-- Stars Earned -->
   <img src="https://img.shields.io/github/stars/Litachii?style=for-the-badge&color=EE2121&labelColor=0D1117&label=STARS%20EARNED&logo=github&logoColor=white" />
   
-  <!-- Commits (Using a reliable proxy if available, otherwise omitted to prevent breakage) -->
-  
 </div>
 
 <br/>
 
-<!-- Streak Section Replaced with Simple Badge if image fails, or kept minimal -->
+<!-- Activity Section - Replaced broken image with a reliable button -->
 <div align="center">
-  <h3 style="color: #EE2121;">🔥 STREAK STATUS</h3>
-  <!-- Using a different source or simple text if Heroku is down. 
-       Trying one last reliable SVG source, if this fails, badges are best. -->
+  <h3 style="color: #EE2121;">🔥 CONTRIBUTION STATUS</h3>
+  
   <a href="https://github.com/Litachii">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Litachii&theme=radical&hide_border=true&card_width=400&background=0D1117&ring=EE2121&fire=EE2121&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=EE2121" alt="Git Streak" />
+    <img src="https://img.shields.io/badge/VIEW_FULL_ACTIVITY_LOG-CLICK_HERE-EE2121?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="View Activity" />
   </a>
-  <br/>
-  <sub><i>(Eğer yukarıdaki grafik görünmüyorsa GitHub ayarlarından 'Activity' verilerini açman gerekebilir)</i></sub>
+  
+  <br/><br/>
+  
+  <p style="color: #aaaaaa; font-style: italic; font-size: 12px;">
+    "The Struggle continues..."
+  </p>
 </div>
 
 <br/><br/>
